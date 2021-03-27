@@ -37,6 +37,8 @@ db.sequelize.sync().then(() => {
   });
 });
 
+
+// api info
 var weeklyValue = [];
 var weeklyDate = [];
 var vantageKey = "PPU2C3YN8OQAFVPV"; //stock api key
