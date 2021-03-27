@@ -41,10 +41,10 @@ db.sequelize.sync().then(() => {
 // // api info
 // var weeklyValue = [];
 // var weeklyDate = [];
-// var vantageKey = "PPU2C3YN8OQAFVPV"; //stock api key
-// var newsApiKey = "mucdpZxSaLprDSOXjHQmG9skw5jyQeci";
 // var currentCompany = "";
 // var currentSymbol = "";
+// var vantageKey = "PPU2C3YN8OQAFVPV"; //stock api key
+// var newsApiKey = "mucdpZxSaLprDSOXjHQmG9skw5jyQeci";
 
 // //==================PART I === Search Bar ==============\\
 // $("#searchBtn2").click(function (event) {
