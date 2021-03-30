@@ -3,9 +3,12 @@ var weeklyValue = [];
 var weeklyDate = [];
 var currentCompany = "";
 var currentSymbol = "";
+// Need to be changed to new api
 var vantageKey = "PPU2C3YN8OQAFVPV"; //stock api key
 var newsApiKey = "mucdpZxSaLprDSOXjHQmG9skw5jyQeci";
 
+
+// need to be updated and part need to be deleted that we are not using
 //==================PART I === Search Bar ==============\\
 $("#searchBtn2").click(function(event) {
   event.preventDefault();
